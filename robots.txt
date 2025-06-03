@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Allow: /
+
+sitemap: https://github.com/enockwest/businessinfo/blob/main/sitemap.xml
+
+Sitemap: https://github.com/enockwest/businessinfo/blob/main/sitemap%20(1).xml
